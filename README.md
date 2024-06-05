@@ -1,7 +1,7 @@
 <b>Help me: Lattes</b>
 
 Saudações, 
-Somos a HelpMe, uma startup formada pelos alunos de Ciências da Computação Arthur Victor, Heitor Monteiro, Hugo Horta, Leonardo Rodrigues e Rodrigo Paulinelli. Nossa empresa tem como objetivo auxiliar graduandos e graduados com questões que possuem dificuldades ao longo da vida acadêmica e, na maioria dos cursos superiores não há disciplinas que auxiliem para sanar essas dúvidas.
+Somos a HelpMe, uma startup formada pelos alunos de Ciências da Computação Hugo Horta, Heitor Monteiro, Arthur Victor, Leonardo Rodrigues e Rodrigo Paulinelli. Nossa empresa tem como objetivo auxiliar graduandos e graduados com questões que possuem dificuldades ao longo da vida acadêmica e, na maioria dos cursos superiores não há disciplinas que auxiliem para sanar essas dúvidas.
 
 O site, ainda é um protótipo, mas criaremos módulos e vídeo aulas ensinando, àqueles que desejarem, o que são as normas da ABNT (Associação Brasileira de Normas Técnicas), como formatar um artigo acadêmico e como fazer as referências bibliográficas e citações na forma correta. Pretendemos, também, dedicar uma atenção especial ao preenchimento da Plataforma Lattes, nosso currículo acadêmico. É uma plataforma desenvolvida pelo CNpQ, que não é nem um pouco intuitiva, possui várias abas, e vários tópicos. Muitas vezes, quem não é familiarizado com a plataforma não sabe como inserir as informações da forma correta. Por isso, forneceremos vários cursos: explicaremos o que é a Plataforma, a sua história e o seu funcionamento; ensinaremos o passo a passo inicial para o preenchimento da plataforma; explicaremos no que consiste cada uma das abas e onde inserir cada evento realizado pelos estudantes ao longo de sua vida acadêmica.
 
